@@ -1,0 +1,23 @@
+{
+  "name": "pr-request",
+  "version": "0.1.0",
+  "description": "promisified `request` module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": "git@github.com:jden/pr-request.git",
+  "keywords": [
+    "promise",
+    "request",
+    "http",
+    "promises"
+  ],
+  "author": "jden <jason@denizac.org>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "~2.16.6",
+    "q": "~0.9.2"
+  }
+}
