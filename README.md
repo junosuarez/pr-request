@@ -13,9 +13,19 @@ promisified `request` module
        console.log(response.body)
     })
 
+## api
+
+see [`request`](https://npm.im/request)'s docs.
+
+Note, currently only the main `request` function is supported.
+
 ## see also
 
 [`pr`](https://npm.im/pr) for promiseified node builtins
+
+## installation
+
+    $ npm install pr-request
 
 ## kudos and respect to
 
