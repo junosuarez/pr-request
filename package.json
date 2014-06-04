@@ -1,6 +1,6 @@
 {
   "name": "pr-request",
-  "version": "0.1.1",
+  "version": "2.36.0",
   "description": "promisified `request` module",
   "main": "index.js",
   "scripts": {
